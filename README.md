@@ -49,4 +49,9 @@ Students should be able to view the list of activities(calculations) sought by t
 - We used Terninary operator to set registration and login based on login state value
 
 # Login Component
--
+- After Registration with details ,they will store in local storage ,with the stored details ,we can login into portal
+- After Succesful login ,You can redirected to Home page which consisits of Math operation
+
+# Home Page
+- In this page you can do Math Operations By entering numbers and operator
+- you can get Output in the result
